@@ -33,7 +33,7 @@ public class Pilha1 {
 				p.size(); 
 			}
 		}
-		//System.out.println(p.size());
+		
 	}
 
 	public void ExercB() {
@@ -61,7 +61,7 @@ public class Pilha1 {
 				p.size(); 
 			}
 		}
-		//System.out.println(p.size());
+		
 	}
 	
 }
